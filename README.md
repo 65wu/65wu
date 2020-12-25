@@ -6,9 +6,9 @@
 - :yum: I love reading and coding
 - :crescent_moon: I have the habit of staying up late
 
-[![65wu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=65wu)](https://github.com/65wu)
+[![65wu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=65wu)](https://wakatime.com/)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=65wu&theme=flat)](https://github.com/65wu)
+[![trophy](https://github-profile-trophy.vercel.app/?username=65wu&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Tools:computer:
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
