@@ -20,11 +20,16 @@
 [![](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat-square&logo=vue.js&logoColor=ffffff)](https://vuejs.org/)
 [![](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
 
-[![](https://img.shields.io/badge/-Java-FF8C00?style=flat-square&logo=java&logoColor=ffffff)](https://www.python.org/)
+[![](https://img.shields.io/badge/-Java-FF8C00?style=flat-square&logo=java&logoColor=ffffff)](https://www.java.com/)
 [![](https://img.shields.io/badge/-Python-228B22?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 [![](https://img.shields.io/badge/-Golang-00CED1?style=flat-square&logo=go&logoColor=ffffff)](https://golang.org/)
 [![](https://img.shields.io/badge/-Php-6A5ACD?style=flat-square&logo=php&logoColor=ffffff)](https://www.php.net/)
 [![](https://img.shields.io/badge/-C++-000000?style=flat-square&logo=c&logoColor=ffffff)](https://www.cplusplus.com/)
+
+[![](https://img.shields.io/badge/-Oracle-FF0000?style=flat-square&logo=oracle&logoColor=ffffff)](https://www.oracle.com/index.html)
+[![](https://img.shields.io/badge/-Mongodb-13aa52?style=flat-square&logo=mongodb&logoColor=ffffff)](https://www.mongodb.com/2)
+[![](https://img.shields.io/badge/-Mysql-4682B4?style=flat-square&logo=mysql&logoColor=ffffff)](https://www.mysql.com/)
+[![](https://img.shields.io/badge/-Postgresql-00008B?style=flat-square&logo=mysql&logoColor=ffffff)](https://www.postgresql.org/)
 
 [![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=ffffff)](https://www.linuxfoundation.org/)
