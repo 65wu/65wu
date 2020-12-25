@@ -1,5 +1,5 @@
 ## Hi I’m 65wu 👋
-### :bust_in_silhouette:Self-introduction
+### Self-introduction:bust_in_silhouette:
 - :house: I’m from China and a college student now
 - :no_mouth: I’m currently working on some private repositories
 - :seedling: I’m currently learning networking protocol
@@ -12,7 +12,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=65wu&theme=flat)](https://github.com/65wu)
 
-### :computer:Tools
+### Tools:computer:
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
 [![](https://img.shields.io/badge/Ubuntu-18.04-2376bc?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://ubuntu.com/)
 
