@@ -10,7 +10,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=65wu&theme=flat&margin-w=2)](https://github.com/ryo-ma/github-profile-trophy)
 
-### Tools:computer:
+### Tools&Skills:computer:
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
 [![](https://img.shields.io/badge/Ubuntu-18.04-2376bc?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://ubuntu.com/)
 
