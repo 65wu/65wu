@@ -6,14 +6,15 @@
 - :yum: I love reading and coding
 - :city_sunset: I have the habit of staying up late
 
-[![65wu's github top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=65wu)](https://github.com/65wu/github-readme-top-langs)
+[![65wu's github top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=65wu)](https://github.com/65wu)
 
-[![65wu's github stats](https://github-readme-stats.vercel.app/api?username=65wu)](https://github.com/65wu/github-readme-stats)
+[![65wu's github stats](https://github-readme-stats.vercel.app/api?username=65wu)](https://github.com/65wu)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=65wu&theme=flat)](https://github.com/65wu/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=65wu&theme=flat)](https://github.com/65wu)
 
 ### Tools:computer:
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
+[![](https://img.shields.io/badge/Ubuntu-18.04-2376bc?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://ubuntu.com/)
 
 [![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
