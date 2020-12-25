@@ -28,6 +28,7 @@
 [![](https://img.shields.io/badge/-Php-6A5ACD?style=flat-square&logo=php&logoColor=ffffff)](https://www.php.net/)
 [![](https://img.shields.io/badge/-C++-000000?style=flat-square&logo=c&logoColor=ffffff)](https://www.cplusplus.com/)
 
+[![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=ffffff)](https://www.linuxfoundation.org/)
 [![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org/)
 [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
