@@ -4,7 +4,7 @@
 - :no_mouth: I’m currently working on some private repositories
 - :seedling: I’m currently learning networking protocol
 - :yum: I love reading and coding
-- :city_sunset: I have the habit of staying up late
+- :crescent_moon: I have the habit of staying up late
 
 [![65wu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=65wu)](https://github.com/65wu)
 
