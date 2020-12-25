@@ -6,8 +6,9 @@
 - :yum: I love reading and coding
 - :city_sunset: I have the habit of staying up late
 
-[![65wu's github stats](https://github-readme-stats.vercel.app/api?username=65wu)](https://github.com/65wu/github-readme-stats)
 [![65wu's github top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=65wu)](https://github.com/65wu/github-readme-top-langs)
+
+[![65wu's github stats](https://github-readme-stats.vercel.app/api?username=65wu)](https://github.com/65wu/github-readme-stats)
 ### Tools:computer:
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
 
