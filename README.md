@@ -6,9 +6,11 @@
 - :yum: I love reading and coding
 - :city_sunset: I have the habit of staying up late
 
+[![65wu's github stats](https://github-readme-stats.vercel.app/api?username=65wu)](https://github.com/65wu)
+
 [![65wu's github top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=65wu)](https://github.com/65wu)
 
-[![65wu's github stats](https://github-readme-stats.vercel.app/api?username=65wu)](https://github.com/65wu)
+[![65wu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=65wu)](https://github.com/65wu)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=65wu&theme=flat)](https://github.com/65wu)
 
