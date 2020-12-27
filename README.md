@@ -6,7 +6,7 @@
 - :yum: I love reading and coding
 - :crescent_moon: I have the habit of staying up late
 
-[![65wu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@65wu&v=2)](https://wakatime.com/)
+[![65wu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@65wu)](https://wakatime.com/)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=65wu&theme=flat&margin-w=2)](https://github.com/ryo-ma/github-profile-trophy)
 
