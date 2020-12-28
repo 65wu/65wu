@@ -23,6 +23,7 @@
 [![](https://img.shields.io/badge/-Java-FF8C00?style=flat-square&logo=java&logoColor=ffffff)](https://www.java.com/)
 [![](https://img.shields.io/badge/-Python-228B22?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 [![](https://img.shields.io/badge/-Golang-00CED1?style=flat-square&logo=go&logoColor=ffffff)](https://golang.org/)
+[![](https://img.shields.io/badge/-R-00008B?style=flat-square&logo=r&logoColor=ffffff)](https://www.r-project.org/)
 [![](https://img.shields.io/badge/-Php-6A5ACD?style=flat-square&logo=php&logoColor=ffffff)](https://www.php.net/)
 [![](https://img.shields.io/badge/-C++-000000?style=flat-square&logo=c&logoColor=ffffff)](https://www.cplusplus.com/)
 
