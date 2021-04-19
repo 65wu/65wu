@@ -2,7 +2,7 @@
 ### Self-introduction:bust_in_silhouette:
 - :house: I’m from China and a college student now
 - :no_mouth: I’m currently working on some private repositories
-- :seedling: I’m currently learning computer organization
+- :seedling: I’m currently learning the algorithm again
 - :yum: I love reading and coding
 - :crescent_moon: I have the habit of staying up late
 
